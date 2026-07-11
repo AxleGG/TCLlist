@@ -1,4 +1,4 @@
-# Welcome to the Geometry Dash Shitty List template! t
+# Welcome to the Geometry Dash Shitty List template! tes
 
 # FAQ
 
