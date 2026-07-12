@@ -3,10 +3,10 @@ import { round, score } from './score.js';
 /**
  * Path to directory containing `list.json` and all levels
  */
-const dir = '../data';
+const dir = 'https://axlegg.github.io/TCLlist/data';
 
 export async function fetchList() {
-    const listResult = await fetch(`https://axlegg.github.io/TCLlist/data/list.json`);
+    const listResult = await fetch(`${dir}/list.json`);
     try {
         const list = await listResult.json();
         return await Promise.all(
@@ -38,7 +38,7 @@ export async function fetchList() {
 
 export async function fetchEditors() {
     try {
-        const editorsResults = await fetch(`https://axlegg.github.io/TCLlist/data/editors.json`);
+        const editorsResults = await fetch(`${dir}/editors.json`);
         const editors = await editorsResults.json();
         return editors;
     } catch {
