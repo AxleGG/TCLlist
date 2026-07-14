@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=xdtBvAzB4Lo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=cM_CC-m4zjI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
