@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "No password",
     "records": [
+        {
+            "user": "Superthomas69",
+            "link": "https://www.youtube.com/watch?v=BHTOsLpkDEU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

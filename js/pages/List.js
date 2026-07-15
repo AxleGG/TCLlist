@@ -110,6 +110,11 @@ export default {
                     <p>
                         Only completions are counted. Meaning only if you get 100% will your completion be on the list
                     </p>
+
+                    <h3>Misc Info</h3>
+                    <p>
+                        We list Hz as your fps in the top left corner. You may use fps bypass, Just so you know.
+                    </p>
                 </div>
             </div>
         </main>
